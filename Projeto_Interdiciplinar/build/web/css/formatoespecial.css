@@ -1,0 +1,279 @@
+.navcs {
+    color: white;
+    font-weight: bold;
+    background-color: rgba(129, 129, 129, 0.61);
+    border: 1px solid grey;
+    padding: 0%;
+    margin: 0%;
+    vertical-align: middle;
+}
+.navnew {
+    color: white;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid black;
+    padding: 0%;
+    margin: 0%;
+    vertical-align: middle;
+}
+.navlol {
+    color: black;
+    font-weight: bold;
+    background-color: rgba(255, 254, 254, 0.74);
+    border: 1px solid grey;
+    padding: 0%;
+    margin: 0%;
+    vertical-align: middle;
+}
+.navval {
+    color: white;
+    font-weight: bold;
+    background-color: rgba(70, 70, 70, 0.884);
+    border: 1px solid white;
+    padding: 0%;
+    margin: 0%;
+    vertical-align: middle;
+}
+.navff {
+    color: black;
+    font-weight: bold;
+    background-color: rgba(129, 129, 129, 0.61);
+    border: 1px solid black;
+    padding: 0%;
+    margin: 0%;
+    vertical-align: middle;
+}
+.navnews {
+    color: black;
+    font-weight: bold;
+    background-color: rgba(129, 129, 129, 0.61);
+    border: 1px solid black;
+    padding: 0%;
+    margin: 0%;
+    vertical-align: middle;
+}
+.csgo {
+
+    color: white;
+    background: url('/d:/Fatec/Projeto Interdisciplinar/Imagens/csgo-15.jpg');
+    background-size: 100%;
+}
+
+.lol {
+    color: #000;
+    text-shadow:
+        -1px -1px 0px #c0c0c0,
+        -1px 1px 0px #c0c0c0,
+        1px -1px 0px #c0c0c0,
+        1px 0px 0px #c0c0c0;
+    font-weight: bolder;
+    color: black;
+    background: url('/d:/Fatec/Projeto Interdisciplinar/Imagens/league.jpg');
+    background-size: 100%;
+}
+
+.valorant {
+    color: #000;
+    text-shadow:
+        -1px -1px 0px #000,
+        -1px 1px 0px #000,
+        1px -1px 0px #000,
+        1px 0px 0px #000;
+    font-weight: bolder;
+    color: white;
+    background: url('/d:/Fatec/Projeto Interdisciplinar/Imagens/valwal.jpg');
+    background-size: 100%;
+
+}
+
+.ff {
+    color: #000;
+    text-shadow:
+        -1px -1px 0px #fff,
+        -1px 1px 0px #fff,
+        1px -1px 0px #fff,
+        1px 0px 0px #fff;
+    font-weight: bolder;
+    color: black;
+    background: url('/d:/Fatec/Projeto Interdisciplinar/Imagens/ffwal.png');
+    background-size: 100%;
+}
+
+.h1cs {
+    color: black;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 0% 1%;
+    margin: 0.6%;
+}
+
+.h1lol {
+    color: black;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 0% 1%;
+    margin: 0.6%;
+}
+
+.h1val {
+    color: black;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 0% 1%;
+    margin: 0.6%;
+}
+
+.h1ff {
+    color: black;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 0% 1%;
+    margin: 0.6%;
+
+}
+.bodycs {
+    background-color: rgba(0, 0, 0, 0.342);
+    border: 1px solid white;
+}
+
+.bodylol {
+    background-color:#ffffff7e;
+    border: 1px solid #c0c0c0;
+}
+
+.bodyval {
+    background-color: #ffffff1e;
+    border: 1px solid white;
+}
+
+.bodyff {
+    background-color: #00000041;
+    border: 1px solid black;
+}
+.tras {
+    font-size: 1.6em;
+}
+
+.one {
+    text-align: center;
+}
+.tras {
+    font-size: 1.6em;
+}
+.tablenewsesp{
+    margin: 0.5%;
+    padding: 1%;
+    text-shadow:
+        0px 0px 0px #000,
+        0px 0px 0px #000,
+        0px 0px 0px #000,
+        0px 0px 0px #000;
+}
+.tabfin{
+    height: 20%;
+}
+.colnie {
+    background-color: white;
+    border: 1px solid black;
+    color:black;
+    vertical-align:top;
+    text-align: center;
+    padding: 0%;
+    margin: 0% ;
+    width: 30%;
+}
+.imgne{
+    border: 1px solid black;
+    vertical-align: top;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+.lerm {
+    font-size: 0.7em;
+}
+.lermlol{
+    font-size: 0.7em;
+    color: black;
+}
+.trans {
+
+    text-align: center;
+    padding: 0%;
+    width: 50%;
+    margin: 5% 25%;
+
+}
+.cst {
+    text-align: center;
+    max-width: 10em;
+    max-height: 10em;
+}
+.i {
+    padding: 0%;
+    vertical-align: bottom;
+    width: 100%;
+
+}
+
+.ib {
+    margin: 0%;
+    vertical-align: bottom;
+    width: 75%;
+}
+.video {
+    margin: 2%;
+    max-width: 100%;
+}
+
+.table{
+    align-items: center;
+    text-align: center;
+    border: 1px solid aqua;
+}
+.botcs{
+    margin: 2% 40%;
+    padding: 1%;
+    border: 1px solid black;
+    background-color: grey;
+}
+.botlol{
+    text-shadow:
+        0px 0px 0px #000,
+        0px 0px 0px #000,
+        0px 0px 0px #000,
+        0px 0px 0px #000;
+    margin: 2% 40%;
+    padding: 1%;
+    border: 1px solid black;
+    background-color: aqua;
+}
+.botval{
+    text-shadow:
+        0px 0px 0px #000,
+        0px 0px 0px #000,
+        0px 0px 0px #000,
+        0px 0px 0px #000;
+    margin: 2% 40%;
+    padding: 1%;
+    border: 1px solid white;
+    background-color: crimson;
+}
+.data{
+    font-size: 0.9em;
+    margin: 1% 0% 1% 0%;
+}
+.tabelames{
+    width: 100%;
+    text-align: center;
+}
+.borda{
+    padding: 0% 1%;
+    margin: 2% 35%;
+    border: 1px solid black;
+}
+.titulonews{
+    text-transform: uppercase;
+    font-size: 1.1em;
+}

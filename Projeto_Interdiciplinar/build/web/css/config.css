@@ -1,0 +1,111 @@
+.noticias-do-dia{
+    border-bottom: 1px solid #d2d2d2;
+    padding: 0% 0% 2% 0%;
+}
+.sem-decoracao{
+    text-decoration: none;
+    text-transform: none;
+}
+.button-excluir {
+    bmargin: 2%;
+    padding: 2% 0%;
+    border-radius: 6px;
+    background-color: #bb0000;
+    color: white;
+    text-decoration: none;
+}
+.icon-side-bar{
+    width: 8%;
+    margin: 0% 5% 0% 0%;
+    padding: 0%;
+}
+.cem{
+    width: 100%;
+}
+.cinquenta{
+    width: 50%;
+}
+.setentaecinco{
+    width: 75%
+}
+.trinta{
+    width: 30%;
+}
+.vinteecinco{
+    width: 25%;
+}
+.vertical-center{
+    transform: translateY(200%);
+}
+.vetical-mid{
+    transform: translateY(100%);
+}
+.button-alterar{
+    bmargin: 2%;
+    padding: 2% 0%;
+    border-radius: 6px;
+    background-color: #0097dd;
+    color: white;
+    text-decoration: none;
+}
+.button-submit{
+    margin: 5%;
+    padding: 1%;
+}
+.button-cadastrar{
+    bmargin: 2%;
+    padding:2%;
+    border-radius: 6px;
+    background-color: #2E8B57;
+    color: white;
+    text-decoration: none;
+}
+.decoration-none{
+    color: white;
+    text-decoration: none;
+}
+.decoration-none:hover{
+    color: white;
+    text-decoration: none;
+}
+.initial-card{
+
+    margin: 3% 0%;
+    padding: 1%;
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid #d2d2d2;
+}
+.noticia{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    margin: 2% 0%;
+    padding: 1%;
+}
+.img-noticia{
+    width: 100%;
+    border-radius:5%;
+}
+.div-imagem{
+    margin: 0%;
+    width: 25%
+}
+.texto-noticia{
+    margin: 0%;
+    padding: 2%;
+    max-width: 70%;
+}
+.cadastro-jogo{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    margin: 2% 0%;
+    padding: 1%;
+}
+.table-cadastro-jogo{
+    max-width: 20%;
+}
+.autor-noticia{
+    font-size: 20px;
+}
